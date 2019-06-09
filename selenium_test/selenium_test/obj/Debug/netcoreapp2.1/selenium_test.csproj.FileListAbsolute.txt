@@ -1,0 +1,11 @@
+D:\Site\LearnCSharp\selenium_test\selenium_test\bin\Debug\netcoreapp2.1\selenium_test.deps.json
+D:\Site\LearnCSharp\selenium_test\selenium_test\bin\Debug\netcoreapp2.1\selenium_test.runtimeconfig.json
+D:\Site\LearnCSharp\selenium_test\selenium_test\bin\Debug\netcoreapp2.1\selenium_test.runtimeconfig.dev.json
+D:\Site\LearnCSharp\selenium_test\selenium_test\bin\Debug\netcoreapp2.1\selenium_test.dll
+D:\Site\LearnCSharp\selenium_test\selenium_test\obj\Debug\netcoreapp2.1\selenium_test.csprojAssemblyReference.cache
+D:\Site\LearnCSharp\selenium_test\selenium_test\obj\Debug\netcoreapp2.1\selenium_test.csproj.CoreCompileInputs.cache
+D:\Site\LearnCSharp\selenium_test\selenium_test\obj\Debug\netcoreapp2.1\selenium_test.AssemblyInfoInputs.cache
+D:\Site\LearnCSharp\selenium_test\selenium_test\obj\Debug\netcoreapp2.1\selenium_test.AssemblyInfo.cs
+D:\Site\LearnCSharp\selenium_test\selenium_test\bin\Debug\netcoreapp2.1\selenium_test.pdb
+D:\Site\LearnCSharp\selenium_test\selenium_test\obj\Debug\netcoreapp2.1\selenium_test.dll
+D:\Site\LearnCSharp\selenium_test\selenium_test\obj\Debug\netcoreapp2.1\selenium_test.pdb
